@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: Blackfry/ideal-octo-enigma # Path to your Github repository
-  branch: live-blog # Branch to update (master by default)
+  branch: master # Branch to update (master by default)
 
 publish_mode: editorial_workflow
 
